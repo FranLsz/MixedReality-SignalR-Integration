@@ -1,8 +1,8 @@
 # MixedReality SignalR Integration
 
-Repositorio del Hands-on Labs para el artículo de Creando real-time apps en Mixed Reality [PONER LINK]
+Repositorio del Hands-on Labs para el artículo 'Creando real-time apps en Mixed Reality' [PONER LINK].
 
-Estructura
+Estructura:
 
-	"Final" - Versión resuelta del laboratorio
-	"Resources" - Recursos necesarios para la construcción del laboratorio
+	"Final" - Versión resuelta del laboratorio, con los proyectos de la Web API y la app en Unity.
+	"Resources" - Librerias, paquetes y scripts necesarios para la construcción del laboratorio.
